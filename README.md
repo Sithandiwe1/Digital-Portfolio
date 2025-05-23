@@ -1,8 +1,6 @@
 # Digital-Portfolio
 
 
-
-
 # 1. Career Counselling – Reflection (STAR)
 
 # Situation:
